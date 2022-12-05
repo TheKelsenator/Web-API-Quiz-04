@@ -25,7 +25,7 @@
 
 ## Screen Shot
 
-![alt text](./assets/images/Screenshot%20(2).png
+![alt text](./assets/images/Screenshot%20(2).png)
 
 ## Application Link
 
