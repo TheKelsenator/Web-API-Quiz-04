@@ -29,4 +29,4 @@
 
 ## Application Link
 
-https://thekelsenator.github.io/java-quiz-04/
+ https://thekelsenator.github.io/Web-API-Quiz-04/
