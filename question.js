@@ -16,7 +16,7 @@ var questions = [
         answer: "reverse()"
     },
     {
-        title: "Which of the following function of Boolean object returs a string of either 'true' or 'false' depending upon the value of the object?",
+        title: "Which of the following function of Boolean object returns a string of either 'true' or 'false' depending upon the value of the object?",
         choices: ["toSource()", "valueOf()", "toString()", "None of the above."],
         answer: "toString()"
     },
@@ -61,7 +61,7 @@ var timer = document.querySelector("#startTime");
 var questionsDiv = document.querySelector("#questionsDiv");
 var wrapper = document.querySelector("#wrapper");
 
-var secondsLeft = 76;
+var secondsLeft = 121;
 
 var holdInterval = 0;
 
