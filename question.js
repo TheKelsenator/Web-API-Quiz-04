@@ -164,7 +164,7 @@ function allDone() {
         var timeRemaining = secondsLeft;
         var createP2 = document.createElement("p");
         clearInterval(holdInterval);
-        createP.textContent = "Your final score is: " + timeRemaining;
+        createP.textContent = "Your final score is: " + score;
 
         questionsDiv.appendChild(createP2);
     }
@@ -203,7 +203,7 @@ function allDone() {
         } else {
             var finalScore = {
                 initials: initials,
-                score: timeRemaining
+                score: score
             }
             console.log(finalScore);
             var allScores = localStorage.getItem("allScores");
