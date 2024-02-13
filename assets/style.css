@@ -145,6 +145,23 @@ li {
   margin-top: 20px;
 }
 
+footer {
+  position:fixed;
+  color: #181b1d;
+  background-color: #9da2a4;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  left:0px;
+  bottom:0px;
+  width:100%;
+}
+
+.footer-text {
+  font-size: 18px;
+  padding: 1% 2% .5% 0;
+  float: right;
+}
+
 @media screen and (max-width: 400px) {
   *{
     box-sizing: border-box;
