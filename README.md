@@ -1,7 +1,26 @@
-# Web API Coding Quiz
+# Weekly Challenge: Four -
+
+## Web API: Coding Quiz
+
+University of Utah
+Full-Stack Coding Bootcamp
+
+- Fall 2022 - Spring 2023
+
 ## Description 
 
 Welcome to the Web API Quiz! This interactive quiz is designed for coding and web development enthusiasts to test their knowledge in a fun and engaging way. With 10 thought-provoking questions, this quiz covers a range of topics relevant to coding and web development, challenging both beginners and seasoned professionals alike.
+
+## Table of Contents 
+
+  - [Features](#features)
+  - [How To Play](#how-to-play)
+  - [User Story](#user-story)
+  - [Acceptance Criteria](#acceptance-criteria)
+  - [License](#license)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Contact Me](#contact-me)
 
 ## Features:
 * Timed Quiz: Test your knowledge against the clock! The quiz is timed to add an extra layer of excitement and challenge.
@@ -37,10 +56,25 @@ Whether you're looking to test your skills, learn something new, or simply have 
 * WHEN the game is over
 * THEN I can save my initials and score
 
-## Screen Shot
+## License
+
+  This project is licensed under the terms of the MIT license.
+  [License Information](https://choosealicense.com/licenses/mit)
+  <br/>
+  <br/>
+  <a href="https://choosealicense.com/licenses/mit">
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
+  </a>
+
+## Screenshot
 
 ![alt text](./assets/images/CodingQuizScreenshot.png)
 
-## Application Link
+## Links
 
-https://thekelsenator.github.io/Web-API-Quiz-04/
+  * Application Link: https://thekelsenator.github.io/Web-API-Quiz-04/
+  * LinkedIn Profile: https://www.linkedin.com/in/kelsey-o-kelley-23057a20b/
+
+## Contact Me
+
+Feel free to reach out to me via email at km.okelley89@gmail.com or through my LinkedIn.
